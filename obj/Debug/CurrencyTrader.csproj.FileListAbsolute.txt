@@ -1,0 +1,5 @@
+C:\Documents and Settings\Ads\My Documents\SharpDevelop Projects\CurrencyTrader\CurrencyTrader\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ads\My Documents\SharpDevelop Projects\CurrencyTrader\CurrencyTrader\bin\Debug\CurrencyTrader.exe
+C:\Documents and Settings\Ads\My Documents\SharpDevelop Projects\CurrencyTrader\CurrencyTrader\obj\Debug\CurrencyTrader.exe
+C:\Documents and Settings\Ads\My Documents\SharpDevelop Projects\CurrencyTrader\CurrencyTrader\obj\Debug\CurrencyTrader.MainForm.resources
+C:\Documents and Settings\Ads\My Documents\SharpDevelop Projects\CurrencyTrader\CurrencyTrader\obj\Debug\CurrencyTrader.csproj.GenerateResource.Cache
